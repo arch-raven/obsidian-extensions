@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "rename-embeds-in-file",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "A plugin for Obsidian.md that allows you to rename embeds in a file.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
