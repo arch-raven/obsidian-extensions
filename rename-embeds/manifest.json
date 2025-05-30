@@ -1,0 +1,10 @@
+{
+    "id": "rename-embeds-in-file",
+    "name": "Rename Embeds",
+    "version": "0.0.1",
+    "minAppVersion": "1.6.5",
+    "description": "Renames Embeds in the current file to match the file name with an index.",
+    "author": "arch-raven",
+    "authorUrl": "https://github.com/arch-raven/",
+    "isDesktopOnly": true
+}
